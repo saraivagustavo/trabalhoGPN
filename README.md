@@ -69,8 +69,8 @@ Uma apresentação em vídeo detalhando o projeto, os processos modelados e as i
 Este projeto foi desenvolvido por:
 | Aluno | GitHub | LinkedIn |
 |-------|--------|----------|
-| Alice lourenço dos Reis | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]() |
-| Davi Campos Sutil | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]() |
+| Alice lourenço dos Reis | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]() | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]() |
+| Davi Campos Sutil | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)]() | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)]() |
 | Gustavo Saraiva Mariano | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/saraivagustavo) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-saraiva-mariano/) |
 | Karyna Martins Carbas | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/Carbas-k) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karyna-carbas-4b8753240/) |
 | Pedro Henrique Albani Nunes | [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/PedroAlbaniNunes) | [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-henrique-albani-nunes-33a729270/) |
