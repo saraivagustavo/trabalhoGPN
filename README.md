@@ -62,7 +62,7 @@ Os modelos BPMN desenvolvidos foram validados utilizando as seguintes estratégi
 
 Uma apresentação em vídeo detalhando o projeto, os processos modelados e as interfaces propostas está disponível no YouTube.
 
-* [Link para o vídeo da apresentação no YouTube](**INSERIR LINK DO VÍDEO AQUI**)
+* [Link para o vídeo da apresentação no YouTube](**colocar link aqui qnd gravarmos**)
 
 ## Contribuições
 
@@ -79,4 +79,4 @@ Este projeto foi desenvolvido por:
 
 ## Licença
 
-Este projeto está licenciado sob a [Nome da Licença, ex: MIT License]. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a MIT License. Consulte o arquivo `LICENSE` para mais detalhes.
