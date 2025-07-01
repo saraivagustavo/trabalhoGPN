@@ -62,7 +62,7 @@ Os modelos BPMN desenvolvidos foram validados utilizando as seguintes estratégi
 
 Uma apresentação em vídeo detalhando o projeto, os processos modelados e as interfaces propostas está disponível no YouTube.
 
-* [Link para o vídeo da apresentação no YouTube](**colocar link aqui qnd gravarmos**)
+* [Link para o vídeo da apresentação no YouTube](https://youtu.be/ohTb3RUARUQ)
 
 ## Contribuições
 
